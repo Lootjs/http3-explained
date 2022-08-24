@@ -408,7 +408,7 @@
 
 * [Русский](ru/README.md)
     * [Почему QUIC](ru/why-quic.md)
-        * [Remember HTTP/2](ru/why-h2.md)
+        * [Вспоминаем HTTP/2](ru/why-h2.md)
         * [TCP head of line blocking](ru/why-tcphol.md)
         * [TCP or UDP](ru/why-tcpudp.md)
         * [Ossification](ru/why-ossification.md)
